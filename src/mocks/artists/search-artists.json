@@ -1,0 +1,46 @@
+{
+    "artists": [
+        {
+            "id": 1,
+            "name": "Kanye West",
+            "followers": "123",
+            "minted": 9,
+            "avatar": "https://smotretklipy.ru/wp-content/uploads/2017/12/kanye_west_2-300x300.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Kanye West New",
+            "followers": "5",
+            "minted": 100,
+            "avatar": "https://smotretklipy.ru/wp-content/uploads/2017/12/kanye_west_2-300x300.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Chloe",
+            "followers": "123",
+            "minted": 9,
+            "avatar": "https://www.glamour.pl/media/cache/default_list/uploads/media/default/0003/74/khloe-kardashian-nie-je-nabialu.jpeg"
+        },
+        {
+            "id": 4,
+            "name": "Chloe Kardashian",
+            "followers": "1",
+            "minted": 2,
+            "avatar": "https://www.glamour.pl/media/cache/default_list/uploads/media/default/0003/74/khloe-kardashian-nie-je-nabialu.jpeg"
+        },
+        {
+            "id": 5,
+            "name": "Kim Kardashian",
+            "followers": "1",
+            "minted": 2,
+            "avatar": "https://lastfm.freetls.fastly.net/i/u/300x300/eaa05fad1da64d288d09fdbf5bd72b61.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Kim Kardashian 2",
+            "followers": "999",
+            "minted": 2,
+            "avatar": "https://lastfm.freetls.fastly.net/i/u/300x300/eaa05fad1da64d288d09fdbf5bd72b61.jpg"
+        }
+    ]
+}
