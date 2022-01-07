@@ -1,1 +1,1 @@
-web: node dist/server.js
+web: node mock/server.js
